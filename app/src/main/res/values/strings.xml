@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AIRES app</string>
+    <string name="start_record">Record</string>
+    <string name="stop_record">Stop record</string>
+    <string name="start_play">Play</string>
+    <string name="stop_play">Stop play</string>
+    <string name="go_to_record">Go to record</string>
+    <string name="wifi_recorder">Wifi recorder</string>
+    <string name="start_receive">Receive</string>
+    <string name="stop_receive">Stop receiving</string>
+    <string name="port">Port</string>
+    <string name="filename">Filename</string>
+    <string name="buffer">Buffer size</string>
+    <string name="receiving_started">Audio receiving started</string>
+    <string name="waiting_packets">Waiting for packets…</string>
+    <string name="receiving_not_started">Audio receiving has not been started</string>
+    <string name="receiving_stopped">Audio receiving stopped</string>
+    <string name="playing_started">Audio playing started</string>
+    <string name="playing_not_started">Audio playing has not been started</string>
+    <string name="playing_stopped">Audio playing stopped</string>
+    <string name="set">Set</string>
+    <string name="rate">Rate</string>
+    <string name="channel">Channel</string>
+    <string name="encoding">Encoding</string>
+    <string name="recording">Recording…</string>
+    <string name="error">Error</string>
+
+    <string name="choose_another_samples">Please choose another samples, these are incompatible with your device</string>
+    <string name="provide_permissions">Please provide all permissions</string>
+    <string name="enter_port_and_buffer">Please enter port, buffer size, filename</string>
+    <string name="entered_fname_error">Entered file was not created</string>
+    <string name="file_not_found">File not found</string>
+    <string name="already_receiving">Already receiving or waiting for receive; click Stop receiving</string>
+</resources>
